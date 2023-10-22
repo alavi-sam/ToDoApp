@@ -24,7 +24,7 @@ SECRET_KEY = 'django-insecure-z9_o$*m9byx^y+yyvzllh-44r7-j$%id^lquz+=-jpc4z#*g*v
 
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
-ALLOWED_HOSTS = ['91.107.191.197', 'vaslsho.cfd']
+ALLOWED_HOSTS = ['91.107.191.197', 'vaslsho.cfd', 'www.vaslsho.cfd', 'new.vaslsho.cfd']
 
 AUTH_USER_MODEL = "accounts.User"
 
